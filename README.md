@@ -1,4 +1,4 @@
-FeatureJs
-=========
+Welcome to FeatureJs!
+=====================
 
-Library with many new object types
+### Library with many new object types
