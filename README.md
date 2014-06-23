@@ -1,5 +1,5 @@
 Welcome to FeatureJs!
 =====================
 
-#### Library that add many new objects types to Javascript
+#### Library that adds many new objects types to Javascript
 
